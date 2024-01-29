@@ -1427,8 +1427,8 @@
 /* Type */
 
 	body {
-		background-color: #efebeb;
-		color: #ffffff;
+		background-color: #ffffff;
+		color: #777;
 	}
 
 	body, input, select, textarea {
